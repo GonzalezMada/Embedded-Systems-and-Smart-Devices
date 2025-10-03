@@ -33,3 +33,4 @@ The dinosaur jumps over obstacles and avoids pterodactyls. This is done by press
 * src/gameover.h - Bitmap data for Game Over screen after collision with enemieses.
 
 ### Demo
+![Dino](https://github.com/user-attachments/assets/a54a3768-d7e7-4c8c-b033-a8d1e3874402)
